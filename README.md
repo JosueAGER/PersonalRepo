@@ -9,10 +9,10 @@ Aquí encontrarás una selección de mis proyectos, las tecnologías que utilizo
 | Categoría        | Tecnologías / Herramientas |
 |------------------|-----------------------------|
 | Lenguajes        | JavaScript, Python, HTML, CSS, Java |
-| Frameworks / Librerías | Spring Boot, Selenium |
+| Frameworks / Librerías | Spring Boot, Junit |
 | Bases de datos   | Mysql, PostgreSQL |
 | Herramientas     | Git, GitHub, Docker, VS Code, Netlify |
-| Otros            | Google Cloud Jenkins (basico) |
+| Otros            | Google Cloud, Selenium, Jenkins (basico) |
 
 ---
 
