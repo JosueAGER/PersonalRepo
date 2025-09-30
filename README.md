@@ -40,6 +40,16 @@ Aquí encontrarás una selección de mis proyectos, las tecnologías que utilizo
 ---
 
 
+### 📦 Pagina de fundación (Con galería) 
+- **Descripción:** Una página para una fundación sencilla, con sus correspondientes secciones.
+- **Estado:** Terminado hace 2 años (sin mantenimiento)
+- **Tecnologías:** html, Javascript y Css.
+- **Captura de pantalla:**  
+<img width="1600" height="752" alt="image" src="https://github.com/user-attachments/assets/e73770fe-fa00-4a0e-bd88-dfcee7db4596" />
+
+
+---
+
 ## 📫 Contacto y redes
 
 - 🏛 Correo institucional: joadguer@espol.edu.ec
